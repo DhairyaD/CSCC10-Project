@@ -11,9 +11,9 @@ Tasks:
 - Evaluate the prototype using evaluation techniques.
 - Analyze the results.
 
-The deliverables will include:
+Deliverables:
 
-- A project proposal;
-- A report outlining the user requirements;
-- An interactive prototype;
-- A final report with the results achieved through the use of evaluation techniques, followed by an in-class presentation.
+- A project proposal
+- A report outlining the user requirements
+- An interactive prototype
+- A final report with the results achieved through the use of evaluation techniques, followed by an in-class presentation
