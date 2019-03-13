@@ -1,6 +1,6 @@
 # Phase 1
 
-# Proposal
+## Proposal
 
 The proposal consists of:
 
